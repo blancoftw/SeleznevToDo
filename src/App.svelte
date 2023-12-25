@@ -19,10 +19,7 @@
 </script>
 
 <div class = "flex_X">
-
-
 </div>
-
 <div class="flex1">
 	<div class="todo">
 		
